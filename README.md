@@ -1,4 +1,5 @@
-![Header](./Github Banner.png)
+<!-- ![Header](./Github Banner.png) -->
+<!-- ![Header](./Github Banner.png) -->
 <h1 align="center">Hi 👋, I'm Azhar</h1>
 <h3 align="center">An enthusiastic back-end programmer who have interests on machine learning and cloud computing</h3>
 
