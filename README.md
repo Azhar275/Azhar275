@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-azhar-tawakkal-77733422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-azhar-tawakkal-77733422a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhazhartawakkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhazhartawakkal" height="30" width="40" /></a>
 <a href="https://instagram.com/azhar.jf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azhar.jf" height="30" width="40" /></a>
 </p>
 
