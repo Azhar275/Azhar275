@@ -1,6 +1,6 @@
 <!-- ![Header](./Github Banner.png) -->
 <!-- ![Header](./Github Banner.png) -->
-<img src="https://github.com/Azhar275/Azhar275/blob/main/Github%20Banner.png" alt="Azhar Banner">
+<img src="hhttps://github.com/Azhar275/Azhar275/blob/main/github_banner.png" alt="Azhar Banner">
 <h1 align="center">Hi 👋, I'm Azhar</h1>
 <h3 align="center">An enthusiastic back-end programmer who have interests on machine learning and cloud computing</h3>
 
