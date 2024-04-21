@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Azhar</h1>
 <h3 align="center">An enthusiastic back-end programmer who have interests on machine learning and cloud computing</h3>
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 You can contact me with my email **azhartawakkalneeds@gmail.com**
 
